@@ -1,0 +1,3 @@
+﻿  extremum.cpp
+C:\Users\User\Desktop\projects\automat\extremum\extremum.cpp(93,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  extremum.vcxproj -> C:\Users\User\Desktop\projects\automat\extremum\Debug\extremum.exe
